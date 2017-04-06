@@ -12,7 +12,7 @@ describe("Deploy", function() {
 describe("HTML", function() {
   
   it("School Types", function() {
-    expect($('section#type_list ul li i.icon-school-type').length).toEqual(8);
+    expect($('section#type_list ul li i.icon-school-type').length).toEqual(10);
   });
   
 });
